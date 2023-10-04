@@ -14,3 +14,4 @@
 <a href = "mailto:lunaporto30@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DF01D7&height=120&section=footer"/>
 </div>
+ ![Snake animation](https://github.com/luna-porto/luna-porto/blob/output/github-contribution-grid-snake.
